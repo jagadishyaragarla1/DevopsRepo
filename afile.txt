@@ -3,3 +3,4 @@ second line of git-2
 third line of git
 forth line of git in remote
 fifth line of git
+sixth line of git
