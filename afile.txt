@@ -1,3 +1,4 @@
 first line of git
 second line of git
 third line of git
+forth line of git
